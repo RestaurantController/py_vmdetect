@@ -16,7 +16,7 @@ Python virtual machine detection library
 
 
 
-Python virtual machine detection tool detects virtual enviroment - VMWare, XEN, FreeBSD jail eg
+Python virtual machine detection tool detects virtual environment - VMWare, XEN, FreeBSD jail eg
 
 
 * Free software: MIT license
@@ -26,7 +26,7 @@ Python virtual machine detection tool detects virtual enviroment - VMWare, XEN, 
 Features
 --------
 
-* This pyhton library detects system eniroment. VMware, Xen, FreeBSD jail etc
+* This pyhton library detects system eniromnent. VMware, Xen, FreeBSD jail etc
 
 
 ```python
